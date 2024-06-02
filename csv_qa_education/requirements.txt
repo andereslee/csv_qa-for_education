@@ -106,3 +106,4 @@ wasmtime==21.0.0
 wcwidth==0.2.13
 widgetsnbextension==4.0.11
 yarl==1.9.4
+tabulate 
